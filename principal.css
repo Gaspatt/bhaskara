@@ -1,0 +1,23 @@
+body {
+    background-color: gainsboro;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    color: white;
+}
+
+.container {
+    background-color: rgb(121, 118, 150);
+    padding: 20px;
+    width: 200px;
+    border-radius: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.calculadora input {
+    
+}
